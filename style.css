@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+
+.soundcloud {
+	width: 200px;
+	margin: 110px 120px 140px 100px;
+
+}
+.facebook {
+	width: 300px;
+	margin: 100px 100px 100px 200px;
+	
+}
+
+.webshop {
+	width: 100px;
+	margin: 100px 100px 100px 100px;
+
+}
+
+.foto {
+	width: 500px;
+	margin: 100px 100px 100px 100px;
+	margin-right: 700px;
+
+}
+
+.subscribe {
+	width: 300px;
+	margin: 100px 100px 80px 200px;
+
+}
